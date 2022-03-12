@@ -6,3 +6,6 @@ for y in 0, 1:
                 F = (not(x) or y or z) and (x or not(z) or not(w))
                         if not(F):
                         print(x, y, z, w)
+
+ print(----------------)
+                        
